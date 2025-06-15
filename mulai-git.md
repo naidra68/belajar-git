@@ -34,4 +34,4 @@ git config --global user.email "ardian.crazy@gmail.com"
 
 <br>
 
-<center> **Terima kasih sudah melihat :heart:** </center>
+**Terima kasih sudah melihat :heart:**
