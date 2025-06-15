@@ -25,21 +25,28 @@ git remote add origin https://github.com/naidra68/belajar-git
 
 <br>
 
-4. **mengubah paksa ke branch main**
+4. **git remote view**
+```bash
+git remote -v
+```
+
+<br>
+
+5. **mengubah paksa ke branch main**
 ```bash
 git branch -M main
 ```
 
 <br>
 
-5. **Perubahan langsung ke repo github (untuk pertama kali)**
+6. **Perubahan langsung ke repo github (untuk pertama kali)**
 ```bash
 git push -u origin main
 ```
 
 <br>
 
-5. **Perubahan langsung ke repo github**
+7. **Perubahan langsung ke repo github**
 ```bash
 git push
 ```
