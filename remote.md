@@ -4,16 +4,44 @@
 
 <br>
 
-**duplikasi repositori**
+1. **duplikasi repositori**
 ```bash
 git clone https://github.com/naidra68/belajar-git
 ```
 
 <br>
 
-**inisialisasi repositori**
+2. **inisialisasi repositori**
 ```bash
 git init
+```
+
+<br>
+
+3. **git remote**
+```bash
+git remote add origin https://github.com/naidra68/belajar-git
+```
+
+<br>
+
+4. **mengubah paksa ke branch main**
+```bash
+git branch -M main
+```
+
+<br>
+
+5. **Perubahan langsung ke repo github (untuk pertama kali)**
+```bash
+git push -u origin main
+```
+
+<br>
+
+5. **Perubahan langsung ke repo github**
+```bash
+git push
 ```
 
 <br>
