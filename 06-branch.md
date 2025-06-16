@@ -31,4 +31,13 @@ git switch login
 > ada dua cara untuk beralih, kita bisa menggunakan checkout ataupun switch tidak masalah sesuai selera kita aja. Terkadang saya meggunakan checkout, terkadang juga saya menggunakan switch.
 <br>
 
+**Membuat dan Beralih ke branch lain**
+
+```bash
+git checkout -b login
+```
+
+> Jika dirasa tidak menyukai cara bertele-tele seperti membuat branch dulu lalu beralih ke branch yg dibuat maka bisa menggunakan perintah diatas. Perintah tersebut akan membuat sekaligus beralih ke branch yang telah dibuat. Lebih simple karena dua kondisi terpenuhi.
+<br>
+
 **Terima kasih sudah melihat :heart:**
