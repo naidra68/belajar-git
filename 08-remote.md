@@ -18,37 +18,51 @@ git init
 
 <br>
 
-3. **git remote**
+3. **menambahkan remote**
 ```bash
 git remote add origin https://github.com/naidra68/belajar-git
 ```
 
 <br>
 
-4. **git remote view**
+4. **melihat remote**
+```bash
+git remote get-url origin
+```
+
+<br>
+
+5. **melihat remote dengan jelas**
 ```bash
 git remote -v
 ```
 
 <br>
 
-5. **mengubah paksa ke branch main**
+6. **mengubah paksa ke branch main**
 ```bash
 git branch -M main
 ```
 
 <br>
 
-6. **Perubahan langsung ke repo github (untuk pertama kali)**
+7. **Perubahan langsung ke repo github (untuk pertama kali)**
 ```bash
 git push -u origin main
 ```
 
 <br>
 
-7. **Perubahan langsung ke repo github**
+8. **Perubahan langsung ke repo github**
 ```bash
 git push
+```
+
+<br>
+
+8. **menghapus remote**
+```bash
+git rm origin
 ```
 
 <br>
