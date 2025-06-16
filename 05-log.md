@@ -1,4 +1,4 @@
-# Git Log
+# Git Log :sunglasses:
 
 > penjelasan : Digunakan ketika ingin melihat aktivitas commit kita sebelumnya. Kita bisa melihat beberapa commit yang telah kita lakukan dan setiap commit memiliki hash dan author serta tanggal commit-nya. untuk keluar dari log bisa tekan tombol "q" di keyboard.
 

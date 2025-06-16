@@ -1,4 +1,4 @@
-# Git Remote (Multiple Remote)
+# Git Remote (Multiple Remote) :sleepy:
 
 > penjelasan : Ini merupakan langkah-langkah jika saya ingin fork repo project orang lain ke repo saya dan nanti-nya saya akan bekerja pada project tersebut.
 

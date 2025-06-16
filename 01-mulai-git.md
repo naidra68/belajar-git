@@ -1,7 +1,7 @@
-# Mulai Git Pertama Kali
+# Mulai Git Pertama Kali :innocent:
 
 
-*catatan ini dibuat untuk saya, karena terkadang saya orang-nya itu pelupa. Jika anda merasa terbantu oleh catatan ini, saya sangat mehargai hal itu dan mari kita belajar bersama sama. :love:*
+*catatan ini dibuat untuk saya, karena terkadang saya orang-nya itu pelupa. Jika anda merasa terbantu oleh catatan ini, saya sangat mehargai hal itu dan mari kita belajar bersama sama.* :heart:
 
 
 ### Git Initialization
