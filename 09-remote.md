@@ -8,7 +8,7 @@
 ```bash
 git clone https://github.com/naidra68/belajar-git
 ```
-> penjelasan : duplikat repo agar ada di local. Ini digunakan jika sudah memiliki repo dan kita ingin remote repo tersebut di device kita. Namun jika repo sudah ada di local maka bisa skip disini.
+> penjelasan : menduplikasi repositori kita ataupun orang lain yang berada di github.
 <br>
 
 ## 2. **inisialisasi repositori**

@@ -1,6 +1,6 @@
 # Belajar Git :flushed:
 Hallo Dunia. :wave:
-Repo ini merupakan repo pertama saya ketika saya belajar mengenai Git dan Github. Tidak ada hal menarik didalam repo ini selain catatan saya belajar hal tersebut.
+Repo ini merupakan repo pertama saya ketika saya belajar mengenai Git dan Github. Tidak ada hal menarik didalam repo ini selain catatan saya belajar hal tersebut. Mohon maaf jika ada salah kata dan membuat anda bingung.
 
 ## Pengaruh Git ?
 

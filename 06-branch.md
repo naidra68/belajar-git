@@ -4,7 +4,7 @@
 
 <br>
 
-## 1. **Melihat daftar branch**
+### 1. **Melihat daftar branch**
 
 ```bash
 git branch
@@ -12,7 +12,7 @@ git branch
 > penjelasan : melihat semua daftar branch. Ketika anda baru menggunakan git maka langkah pertama adalah melihat branch anda terlebih dahulu.
 <br>
 
-## 2. **Membuat branch**
+### 2. **Membuat branch**
 
 ```bash
 git branch login
@@ -20,7 +20,7 @@ git branch login
 > penjelasan : membuat branch dengan nama `login`.
 <br>
 
-## 3. **Beralih ke branch lain**
+### 3. **Beralih ke branch lain**
 
 ```bash
 git checkout login
@@ -31,7 +31,7 @@ git switch login
 > Penjelsan : Ada dua cara untuk beralih, kita bisa menggunakan checkout ataupun switch tidak masalah sesuai selera kita aja. Terkadang saya meggunakan checkout, terkadang juga saya menggunakan switch.
 <br>
 
-## 4. **Membuat dan Beralih ke branch lain**
+### 4. **Membuat dan Beralih ke branch lain**
 
 ```bash
 git checkout -b login
@@ -40,7 +40,7 @@ git checkout -b login
 > Penjelasan : Jika dirasa tidak menyukai cara bertele-tele seperti membuat branch dulu lalu beralih ke branch yg dibuat maka bisa menggunakan perintah diatas. Perintah tersebut akan membuat sekaligus beralih ke branch yang telah dibuat. Lebih simple karena dua kondisi terpenuhi.
 <br>
 
-## 5. **Menghapus branch**
+### 5. **Menghapus branch**
 
 ```bash
 git branch -d login
