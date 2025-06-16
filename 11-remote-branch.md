@@ -1,4 +1,4 @@
-# Git Remote Branch :smiley:
+# Git Remote Branch :smile:
 
 > penjelasan : Merupakan langkah-langkah selanjutnya, ketika kita sudah fork repo orang lain, memasukkannya ke local, selalu up to date dengan repo asli, dan kita sudah membuat fitur baru pada repo fork kita serta kita akan menambahkan fitur kita ke repo asli maka langkah ini yang harus diterapkan.
 
