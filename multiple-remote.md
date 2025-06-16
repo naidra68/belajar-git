@@ -14,10 +14,10 @@
 ```bash
 git clone https://github.com/ardian/belajar-git
 ```
-> penjelasan : Duplikasi repositori yang telah di fork tadi, lihat url nya saya memakai akun github bernama "ardian" dan saya fork belajar-git dari akun "naidra68".
+> penjelasan : Duplikasi repositori yang telah di fork tadi, lihat url nya saya memakai akun github bernama "ardian" karena saya sudah fork belajar-git dari akun "naidra68".
 <br>
 
-3. **git remote**
+3. **melihat daftar remote**
 ```bash
 git remote
 ```
