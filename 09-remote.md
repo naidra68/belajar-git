@@ -83,7 +83,7 @@ git push -d origin develop
 
 ## 12. **menghapus remote**
 ```bash
-git rm origin
+git remote rm origin
 ```
 > penjelasan : Untuk menghapus remote.
 <br>
